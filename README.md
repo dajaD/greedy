@@ -5,8 +5,8 @@
 public class MyClass {
     public static void main(String args[]) {
         
-      int total = 1000;
-      int currency[] = {1,5,10,20,50,100}; //the shortest way to convert the currency to the total amount 100*10
+      int total = 10022;
+      int currency[] = {100,50,20,10,5,1}; //the shortest way to convert the currency to the total amount
       int moneyy;
       
       for(int i =0; i<currency.length; i++)
